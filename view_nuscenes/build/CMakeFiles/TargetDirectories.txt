@@ -1,0 +1,3 @@
+/home/wsx/practice_code/vscode/view_nuscenes/build/CMakeFiles/view_point_cloud.dir
+/home/wsx/practice_code/vscode/view_nuscenes/build/CMakeFiles/edit_cache.dir
+/home/wsx/practice_code/vscode/view_nuscenes/build/CMakeFiles/rebuild_cache.dir

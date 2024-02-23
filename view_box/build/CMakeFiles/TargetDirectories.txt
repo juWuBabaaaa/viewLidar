@@ -1,0 +1,3 @@
+/home/wsx/practice_code/vscode/view_box/build/CMakeFiles/view_box.dir
+/home/wsx/practice_code/vscode/view_box/build/CMakeFiles/edit_cache.dir
+/home/wsx/practice_code/vscode/view_box/build/CMakeFiles/rebuild_cache.dir
