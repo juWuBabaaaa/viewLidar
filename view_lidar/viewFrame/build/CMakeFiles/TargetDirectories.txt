@@ -1,0 +1,3 @@
+/home/wsx/practice_code/viewLidar/view_lidar/viewFrame/build/CMakeFiles/viewFrame.dir
+/home/wsx/practice_code/viewLidar/view_lidar/viewFrame/build/CMakeFiles/edit_cache.dir
+/home/wsx/practice_code/viewLidar/view_lidar/viewFrame/build/CMakeFiles/rebuild_cache.dir
